@@ -4,6 +4,6 @@ Smart Grid (SG) technology transforms the traditional power network from a physi
  
 This thesis presents an effective dynamic solution for SG monitoring by combining concepts related to Compressive Sensing (CS) and Sparse Recovery (SR). Following a preliminary analysis of the stated concepts, a study is proposed to implement a SG model in MATLAB, with the aim to show and finally to compare some  applications of CS - SR algorithmic techniques that are going to obtain effective problem solutions.
 
-![](risultato.png)
+![](tesi.png)
 
 If you need more information about how the code works and how to build it, feel free to contact me at matteoluceri@msn.com.
