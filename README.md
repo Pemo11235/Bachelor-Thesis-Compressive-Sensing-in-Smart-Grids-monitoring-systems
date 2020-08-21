@@ -1,4 +1,4 @@
-# Bachelor Thesis: CompressiveSensing in Smart Grids monitoring systems
+# Compressive Sensing in Smart Grids monitoring systems
  
 Smart Grid (SG) technology transforms the traditional power network from a physical level into systems that comprise two levels side by side, the physical and the informative. Collecting, transferring and analyzing an enormous amount of data that can be acquired by different nodes in the network, together with the uncertainty caused by distributed power generators, challenges standard methods for safety and monitoring in future SGs.   
  
